@@ -24,6 +24,7 @@ h1{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  margin-top: 20px;
 }
 
 .box{
@@ -46,8 +47,37 @@ span{
   margin-left: auto;
   margin-right: auto;
   font-family: 'Nerko One', sans-serif;
-  color: blue;
   font-size: 22px;
   text-align: center;
+}
+
+.blue{
+  color: blue;
+}
+
+.pink{
+  color: pink;
+}
+
+.orange{
+  color: orange;
+}
+
+.green{
+  color: green;
+}
+
+.mystery:hover {
+  background: url("../img/pattern.png") no-repeat;
+}
+
+/* footer */
+
+h3{
+  text-align: center;
+  font-family: 'Nerko One', sans-serif;
+  color: black;
+  margin-top: 20px;
+  font-size: 14px;
 
 }
